@@ -1,1 +1,0 @@
-drug 파일을 C:\Users\User\AndroidStudioProjects 경로에 넣는다.
